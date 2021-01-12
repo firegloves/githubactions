@@ -9,7 +9,6 @@ class MyClassTest {
 
     @Test
     void sayHello() {
-
         assertEquals("Hello", new MyClass().sayHello());
     }
 
