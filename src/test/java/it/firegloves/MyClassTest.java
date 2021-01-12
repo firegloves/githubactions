@@ -12,4 +12,9 @@ class MyClassTest {
 
         assertEquals("Hello", new MyClass().sayHello());
     }
+
+    @Test
+    void sayNever() {
+        assertEquals("Never!", new MyClass().sayHello());
+    }
 }
