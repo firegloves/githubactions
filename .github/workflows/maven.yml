@@ -7,8 +7,6 @@ on:
   push:
     branches:
       - master
-      - origin/new-branch
-      - singleword
   pull_request:
     branches:
       - master
