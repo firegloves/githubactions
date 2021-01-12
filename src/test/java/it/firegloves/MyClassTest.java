@@ -15,7 +15,7 @@ class MyClassTest {
 
     @Test
     void sayKobraKai() {
-        assertEquals("Kobra Kai! ahi ahi", new MyClass().sayKobraKai());
+        assertEquals("Kobra Kai! ahi hiaa", new MyClass().sayKobraKai());
     }
 
 
