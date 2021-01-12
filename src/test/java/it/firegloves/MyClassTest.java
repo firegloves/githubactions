@@ -13,7 +13,7 @@ class MyClassTest {
     }
 
     @Test
-    void sayNever() {
+    void sayNeverDie() {
         assertEquals("Never!", new MyClass().sayHello());
     }
 }
