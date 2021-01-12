@@ -14,6 +14,6 @@ class MyClassTest {
 
     @Test
     void sayNeverDie() {
-        assertEquals("Never!", new MyClass().sayHello());
+        assertEquals("NeverDie!", new MyClass().sayHello());
     }
 }
