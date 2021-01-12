@@ -8,10 +8,12 @@ on:
     branches:
       - master
       - origin/new-branch
+      - singleword
   pull_request:
     branches:
       - master
       - origin/new-branch
+      - singleword
 
 jobs:
   build:
