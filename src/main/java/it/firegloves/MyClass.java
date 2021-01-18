@@ -10,4 +10,8 @@ public class MyClass {
     public String sayKobraKai() {
         return "Kobra Kai!";
     }
+    
+    public String sayKobraKaiAhiAhi() {
+        return "Kobra Kai!";
+    }
 }
